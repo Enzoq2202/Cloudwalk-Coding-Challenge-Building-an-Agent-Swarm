@@ -9,7 +9,8 @@ Welcome to our coding challenge! This task is designed to assess your software e
 Your task is to design and build an Agent Swarm. This swarm will consist of at least **three distinct types of agents** working together to process user messages.
 
 ### Core Requirements:
-![image](https://gist.github.com/user-attachments/assets/3fb186ce-2e36-42eb-b06e-ba04d392ead9)
+<img width="721" height="459" alt="Screenshot 2025-11-21 at 10 31 26" src="https://github.com/user-attachments/assets/9d7c0d41-e2fe-4fe8-ab54-3204f70d0f87" />
+
 
 1.  **Agent Swarm Architecture:**
     * Implement a system with at least **three distinct types of agents**:
